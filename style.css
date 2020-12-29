@@ -1,0 +1,13 @@
+.container{margin-bottom: 80px;}
+.brandname{border-radius: 5px;padding: 5px 5px;}
+.nav-link{border-radius: 5px;background-color:cyan;margin-left: 5px;font-weight: bolder; color: white;}
+.col-md-4{padding-left: 40px;}
+.carouselheight{max-height: 450px;}
+.rawimage{width: 100%; height: 25vw; object-fit: cover;}
+.card{border-radius: 15px;box-shadow: 10px 10px 5px gray;}
+
+.card-img-top{width: 100%; height: 25vw; object-fit: cover;}
+.customerheading{border-radius: 10px; text-align: center;width: 420px;}
+.foot{text-align: center;font-size: smaller;font-weight: bold;}
+
+
